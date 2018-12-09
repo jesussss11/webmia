@@ -1,0 +1,40 @@
+.encabezado{
+    
+    display: block;
+    margin: auto;
+    width: 500;
+    height: 200; 
+}
+.parrafo{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: ghostwhite;
+    margin-top: 10px;
+background-color:rgb(252, 0, 0);
+opacity: 0,9;
+border-radius: 20px;
+padding-left: 100px;
+padding-right: 20px;
+padding-top: 10px;
+margin-right: 25%;
+margin-left: 25%
+}
+.parrafo2{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: ghostwhite;
+    margin-top: 10px;
+background-color:rgb(252, 80, 0);
+opacity: 0,9;
+border-radius: 20px;
+padding-left: 100px;
+padding-right: 20px;
+padding-top: 10px;
+margin-right: 25%;
+margin-left: 25%
+
+
+}
+.bootn{
+	background-color: red !important;
+    border-color: red !important;
+	
+}
