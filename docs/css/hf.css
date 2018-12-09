@@ -7,14 +7,11 @@
 
 }
 .encabezado{
-    
- display: block;
-margin-right: auto;
-margin-left: auto;
-width: 350px;
-height: 200px; 
+    display: block;
+    margin: auto;
+    width: 500;
+    height: 200; 
 }
-
 .parrafo{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     color: ghostwhite;

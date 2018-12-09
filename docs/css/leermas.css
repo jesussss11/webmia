@@ -8,12 +8,10 @@ body{
 	
 }
 .encabezado{
-    
-	display: block;
-	margin-right: auto;
-	margin-left: auto;
-	width: 350px;
-	height: 200px;
+    display: block;
+    margin: auto;
+    width: 500;
+    height: 200; 
 }
 
 .parrafo{
@@ -121,4 +119,9 @@ body{
 	position: relative;
 	margin: 10px;
 
+}
+.bootn{
+	background-color: red !important;
+    border-color: red !important;
+	
 }
