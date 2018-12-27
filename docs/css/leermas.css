@@ -39,7 +39,7 @@ body{
 }
 
 .galeria li {
-	margin: 5px;
+	margin: 20px;
 }
 
 .galeria img {
@@ -72,12 +72,13 @@ body{
 }
 
 .imagen {
-	width: 10%;
-	height: 30%;
+	width: 30%;
+	height: 60%;
 	
 	display: flex;
 	justify-content: center;
 	align-items: center;
+	text-align: center;
 }
 
 .imagen a {
@@ -117,7 +118,7 @@ body{
 }
 .imag{
 	position: relative;
-	margin: 10px;
+	margin: 30px;
 
 }
 .bootn{

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<rss version="2.0">
+
+<channel>
+
+
+
+<title>El tiempo </title>
+<link>https://www.eltiempo24.es</link>
+<description>Pagina web del tiempo</description>
+
+<item>
+<title>El tiempo en sevilla</title>
+<link>https://www.tiempo.es/sevilla-sevilla-es0se0093.html</link>
+<description>El tiempo en la ciudad de sevilla</description>
+</item>
+
+<item>
+<title>El tiempo en El Rubio</title>
+<link>https://www.tiempo.es/sevilla-el_rubio-es0se0086.html</link>
+<description>El tiempo en la localidad de El Rubio</description>
+</item>
+
+</channel>
+</rss>

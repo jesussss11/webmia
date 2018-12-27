@@ -1,0 +1,31 @@
+<feed  xmlns:atom="http://www.w3.org/2005/Atom" xml:lang="es-es" rel="self">
+<title>Rss en Atom</title>
+<id>https://jesussss11.github.io/webmia/</id>
+<link href="https://jesussss11.github.io/webmia/" type="application/atom+xml" rel="alternate"/>
+<updated>2016-11-08T20:53:00Z</updated>
+<author>
+<name>Jesus jimenez</name>
+</author>
+<entry>
+<title>Pagina de el tiempo</title>
+<id>https://www.eltiempo24.es/</id>
+<link href="https://www.eltiempo24.es" type="text/html" rel="alternate"/>
+<updated>2018-12-08T20:12:00Z</updated>
+<author>
+<name>Jesus jimenez</name>
+<email>ciudadania5ajesus@gmail.com</email>
+</author>
+<summary>El tiempo en Sevilla en estos proximos dias</summary>
+</entry>
+<entry>
+<title>El tiempo en Sevilla</title>
+<id>https://www.tiempo.es/sevilla-sevilla-es0se0093.html</id>
+<link href="https://www.tiempo.es/sevilla-sevilla-es0se0093.html" type="text/html" rel="alternate"/>
+<updated>2018-12-08T20:12:10Z</updated>
+<author>
+<name>Jesus jimenez</name>
+<email>ciudadania5ajesus@gmail.com</email>
+</author>
+<summary>rss para pagina web</summary>
+</entry>
+</feed>
